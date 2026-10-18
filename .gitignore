@@ -1,0 +1,16 @@
+# Saved expense history
+expenses.txt
+
+# Backup files
+main_backup.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
